@@ -1,10 +1,8 @@
 # Hi, I'm Prisha Dwivedi 👋
 
-- Computer Science undergraduate at SRM Institute of Science and Technology (SRMIST), Ghaziabad.
+I'm a Computer Science undergraduate at SRMIST, Ghaziabad, interested in software engineering and backend development.
 
-- Interested in software engineering, backend development, and building secure, practical applications.
-
-- Currently strengthening my Data Structures & Algorithms skills and exploring modern AI/GenAI development.
+I enjoy building secure applications and working with Java, Spring Boot, and React. I'm currently strengthening my DSA fundamentals while exploring AI/GenAI development.
 
 ## Tech Stack
 
@@ -26,18 +24,12 @@
 ## Featured Projects
 
 ### Organizational Access Control System
-A full-stack user management application with authentication, role-based access control, and secure backend APIs.
 
-**Tech:** Java, Spring Boot, Spring Security, React, PostgreSQL, Docker
+A full-stack application for user management with secure authentication, role-based access control, and account administration. Built with a Spring Boot backend and React frontend.
+
+Tech: Java, Spring Boot, Spring Security, React, PostgreSQL, Docker
 
 [View Repository](https://github.com/prisha-011/Organizational-Access-Control)
-
-### WorkNest — Backend API System
-A backend project focused on REST APIs, CRUD operations, database relationships, and layered application architecture.
-
-**Tech:** Java, Spring Boot, MySQL, JPA/Hibernate, Maven
-
-[View Repository](https://github.com/prisha-011/WorkNest-project)
 
 ## Current Goals
 
